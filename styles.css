@@ -111,7 +111,8 @@ header {
     text-decoration: none;
 }
 main{
-    flex-wrap:wrap; 
+    display: flex;
+    orientation:row;
 }
 main img{
     border-radius:16px;
